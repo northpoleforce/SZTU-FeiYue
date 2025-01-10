@@ -1,0 +1,10 @@
+* [首页](/#深圳技术大学-飞跃手册 "深圳技术大学 飞跃手册") 
+* 板块
+  - [就业](/modules/work/)
+  - [留学](/modules/abord/)
+  - [考研](/modules/postgraduate/)
+  - [创业](/modules/business/)
+* [友情链接](/links/)
+* [TODO: 近期更新](/update)
+* [TODO: 贡献名单](/contributors)
+* [TODO: 意见/改进](/improve)

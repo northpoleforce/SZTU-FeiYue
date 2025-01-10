@@ -1,0 +1,3 @@
+- [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
+- [深圳大学飞跃手册](https://szu-feiyue.github.io/jiuye/)
+- [南方科技大学飞跃手册](https://sustech-application.com/)
